@@ -1,1 +1,3 @@
-# calcolater
+# calcolater is a simple model  for calcolater design
+# it is doing all operation as "+","-","*","%","/"....
+# i used html,css,js 
